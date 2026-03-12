@@ -7,7 +7,7 @@ Created by **Batoul Hamieh**.
 ---
 
 ## About This Guide
-Transitioning from procedural programming to OOP can be challenging. This guide was built to bridge that gap, focusing on the four pillars of OOP while providing real-world modeling examples. Whether you are preppering for an exam or building a foundation for software engineering, this handbook is for you.
+Transitioning from procedural programming to OOP can be challenging. This guide was built to bridge that gap, focusing on the four pillars of OOP while providing real-world modeling examples. Whether you are preparing for an exam or building a foundation for software engineering, this handbook is for you.
 
 ### What You Will Learn:
 * **Chapter 01: OOP Basics** – Class instantiation, Object state/behavior, and Memory logic.
