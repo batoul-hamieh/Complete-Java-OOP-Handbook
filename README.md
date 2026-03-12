@@ -1,5 +1,4 @@
-# 📖 Java Object-Oriented Programming: 
-#  A Complete Study Guide 
+# 📖 Object-Oriented Programming Complete Guide 
 
 This repository contains a comprehensive guide to **Object-Oriented Programming (OOP) using Java**. Originally designed for university students, this resource breaks down complex programming paradigms into structured chapters.
 
