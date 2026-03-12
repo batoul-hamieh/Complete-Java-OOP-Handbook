@@ -27,7 +27,7 @@ Transitioning from procedural programming to OOP can be challenging. This guide 
 ---
 
 ## 📂 Repository Structure
-- `Object_Oriented_Programming_Complete_Guide.pdf`: The full illustrated guide.
+- `Complete_Java_OOP_Handbook.pdf`: The full illustrated guide.
 - `/diagrams`: A collection of UML diagrams used throughout the chapters.
 - `/code-samples`: Java source files for the examples mentioned in the text.
 
