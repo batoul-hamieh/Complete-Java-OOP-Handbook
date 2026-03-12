@@ -36,7 +36,7 @@ Transitioning from procedural programming to OOP can be challenging. This guide 
 ##  How to Use This Resource ?
 1. **Download the PDF:** Start by reading the theoretical concepts.
 2. **Review the UMLs:** Look at the `/diagrams` folder to understand the architecture.
-3. **Practice:** Try to recreate the guide's logic on your own IDE.
+3. **Practice:** Try to recreate the guide's logic on your own IDE. You can compare your work against the implementations located in the `/code-samples`
 
 ---
 
