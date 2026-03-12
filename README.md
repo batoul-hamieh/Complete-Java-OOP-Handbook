@@ -1,4 +1,5 @@
-# 📖 Object-Oriented Programming: A Complete Study Guide 
+# 📖 Java Object-Oriented Programming: 
+#  A Complete Study Guide 
 
 This repository contains a comprehensive guide to **Object-Oriented Programming (OOP) using Java**. Originally designed for university students, this resource breaks down complex programming paradigms into structured chapters.
 
@@ -9,7 +10,7 @@ Created by **Batoul Hamieh**.
 ## About This Guide
 Transitioning from procedural programming to OOP can be challenging. This guide was built to bridge that gap, focusing on the four pillars of OOP while providing real-world modeling examples. Whether you are preparing for an exam or building a foundation for software engineering, this handbook is for you.
 
-### What You Will Learn:
+### 📚 What You Will Learn:
 * **Chapter 01: OOP Basics** – Class instantiation, Object state/behavior, and Memory logic.
 * **Chapter 02: Java Classes** – Encapsulation, Constructor chaining, and Static/Instance variables.
 * **Chapter 03: Inheritance** – Extending functionality, Method Overriding, and the super keyword.
