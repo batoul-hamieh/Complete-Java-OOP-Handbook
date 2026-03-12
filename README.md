@@ -27,7 +27,7 @@ Transitioning from procedural programming to OOP can be challenging. This guide 
 ---
 
 ## 📂 Repository Structure
-- `Complete_Java_OOP_Handbook.pdf`: [Complete_Java_OOP_Handbook](https://github.com/batoul-hamieh/Complete-Java-OOP-Handbook/blob/main/Complete_Java_OOP_Handbook.pdf)
+- `Complete_Java_OOP_Handbook.pdf`: [Complete_Java_OOP_Handbook](https://raw.githubusercontent.com/batoul-hamieh/Complete-Java-OOP-Handbook/main/Complete_Java_OOP_Handbook.pdf)
 - `/diagrams`: A collection of UML diagrams used throughout the chapters.
 - `/code-samples`: Java source files for the examples mentioned in the text.
 
