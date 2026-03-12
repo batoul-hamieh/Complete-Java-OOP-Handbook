@@ -15,7 +15,7 @@ Transitioning from procedural programming to OOP can be challenging. This guide 
 * **Chapter 03: Inheritance** – Extending functionality, Method Overriding, and the super keyword.
 * **Chapter 04: Polymorphism** – Dynamic Binding, Object Casting, and Runtime Flexibility.
 * **Chapter 05: Abstraction vs. Interface** – Understanding when to use Abstract classes vs. Interfaces.
-* **Chapter 06: Exception Handling** – Making your code robust with `try-catch` and custom exceptions.
+* **Chapter 06: Exception Handling** – Exception hierarchies, Try-Catch blocks, and Custom Exception logic.
 
 ---
 
