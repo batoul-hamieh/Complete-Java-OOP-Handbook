@@ -33,7 +33,7 @@ Transitioning from procedural programming to OOP can be challenging. This guide 
 
 ---
 
-##  How to Use This Resource ?
+##  How to Use This Resource
 1. **Download the PDF:** [Complete_Java_OOP_Handbook](https://raw.githubusercontent.com/batoul-hamieh/Complete-Java-OOP-Handbook/main/Complete_Java_OOP_Handbook.pdf)
 2. **Review the UMLs:** Look at the `/diagrams` folder to understand the architecture.
 3. **Practice:** Try to recreate the guide's logic on your own IDE. You can compare your work against the implementations located in the `/code-samples` folder
