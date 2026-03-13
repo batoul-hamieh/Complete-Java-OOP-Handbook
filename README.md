@@ -10,12 +10,12 @@ Created by **Batoul Hamieh**.
 Transitioning from procedural programming to OOP can be challenging. This guide was built to bridge that gap, focusing on the four pillars of OOP while providing real-world modeling examples. Whether you are preparing for an exam or building a foundation for software engineering, this handbook is for you.
 
 ### 📚 What You Will Learn:
-* **Chapter 01: OOP Basics** – Class instantiation, Object state/behavior, and Memory logic.
-* **Chapter 02: Java Classes** – Encapsulation, Constructor chaining, and Static/Instance variables.
-* **Chapter 03: Inheritance** – Extending functionality, Method Overriding, and the super keyword.
-* **Chapter 04: Polymorphism** – Dynamic Binding, Object Casting, and Runtime Flexibility.
-* **Chapter 05: Abstraction vs. Interface** – Understanding when to use Abstract classes vs. Interfaces.
-* **Chapter 06: Exception Handling** – Exception hierarchies, Try-Catch blocks, and Custom Exception logic.
+* **Chapter 01: OOP Basics** - Class instantiation, Object state/behavior, and Memory logic.
+* **Chapter 02: Java Classes** - Encapsulation, Constructor chaining, and Static/Instance variables.
+* **Chapter 03: Inheritance** - Extending functionality, Method Overriding, and the super keyword.
+* **Chapter 04: Polymorphism** - Dynamic Binding, Object Casting, and Runtime Flexibility.
+* **Chapter 05: Abstraction vs. Interface** - Understanding when to use Abstract classes vs. Interfaces.
+* **Chapter 06: Exception Handling** - Exception hierarchies, Try-Catch blocks, and Custom Exception logic.
 
 ---
 
